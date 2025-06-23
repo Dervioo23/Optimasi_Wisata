@@ -3,7 +3,7 @@ streamlit
 pandas
 numpy
 matplotlib
-osmnx
+osmnx==1.6.0
 geopandas
 networkx
 streamlit-folium
